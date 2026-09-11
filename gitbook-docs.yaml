@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 씨유엔 매뉴얼
+  structure:
+    - type: section
+      key: section-1
+      title: VAN 매뉴얼
+      path: van
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: VAN 매뉴얼
+          path: docs
+          default: true
+          content:
+            directory: ./van/docs
