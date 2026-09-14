@@ -1,19 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: POS가이드
+  title: 씨유엔 내부
   structure:
-    - type: section
-      key: section-1
-      title: Home
-      path: home
-      icon: house
+    - type: space
+      key: space-1
+      title: Docs
+      path: docs
       default: true
-      children:
-        - type: space
-          key: space-1
-          title: POS매뉴얼
-          path: home
-          default: true
-          content:
-            directory: ./home
-            language: ko
+      content:
+        directory: ./docs
