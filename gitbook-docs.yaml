@@ -1,18 +1,19 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: 씨유엔 매뉴얼
+  title: POS가이드
   structure:
     - type: section
       key: section-1
-      title: VAN 매뉴얼
-      path: van
-      description: ""
+      title: Home
+      path: home
+      icon: house
       default: true
       children:
         - type: space
           key: space-1
-          title: VAN 매뉴얼
-          path: docs
+          title: POS매뉴얼
+          path: home
           default: true
           content:
-            directory: ./van/docs
+            directory: ./home
+            language: ko
