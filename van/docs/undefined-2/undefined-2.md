@@ -22,6 +22,29 @@ icon: '3'
 
 메인화면에서 숫자7번-카드번호, 유효기간 입력-판매금액 입력-결제영수증 확인
 
+### ⭐<mark style="color:red;">키인 승인 처리 방법</mark>⭐
+
+→ 조합에서 키인 승인 금액 별로 CUNIBS에서 별도로 처리를 해주셔야 입금 받으실 수 있습니다.
+
+&#x20;  1\) **5만원 이하:** 자동으로 청구되기 때문에 별도 처리 필요 없이 입금됩니다
+
+&#x20;  2\) **5만원 초과\~300만원 이하:** CUNIBS \[4100] 통합매입누락관리 미처리건 -  \[청구]버튼을 누르시면\
+&#x20;      3\~5영업일 이후 입금
+
+&#x20;  3\) **300만원 초과:** \[4500] 정보변경 관리 화면에 거래 청구 요청&#x20;
+
+&#x20;                             <mark style="color:$danger;">**단, \[4500]정보변경관리에 1000만원까지 자동청구한도 증액 신청**</mark>
+
+<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
+
+1. #### 키인 거래 청구 요청
+
+<figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
+
+2. #### 키인 자동청구 한도 증액
+
+<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+
 ### 자주 묻는 질문 Q\&A
 
 <details>
