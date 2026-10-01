@@ -157,24 +157,19 @@ icon: '3'
 3\) **300만원 초과:** \[4500] 정보변경 관리 화면에 거래 청구 요청\
 &#x20;   <mark style="color:red;">**단, \[4500]정보변경관리에 1000만원까지 자동청구한도 증액 신청**</mark>
 
+<figure><img src="../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
-<mark style="color:blue;">사유별 처리방법</mark>
+&#x20;<mark style="color:blue;">**1. 키인 거래 청구 요청**</mark>&#x20;
 
-* <mark style="color:blue;">① 매입불가/해지/정지중인 가맹점</mark>&#x20;
+<figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;       **- 처리방법1:** 가맹점번호 정상여부 확인 후 재개시, 익 영업일에 \[4110]에서 \[수정]→\[등록]\
-&#x20;         ※\[재청구] 버튼은 기존 가맹번호로 카드사에 청구됨&#x20;
 
-&#x20;       **- 처리방법2:** 가맹점번호 정상여부 확인 후 전표를 카드사로 매입
 
-* <mark style="color:blue;">② 제시기일 경과:</mark>&#x20;
+&#x20;<mark style="color:blue;">**2. 키인 자동청구 한도 증액**</mark>
 
-&#x20;        매입사로 전표 매입 (해외카드는 제시기일 최소5일이므로 카드사에서 처리 안해줄 수도 있음)
-
-* <mark style="color:red;">※</mark> <mark style="color:red;"></mark><mark style="color:red;">**처리 제외건은 처리가 필요 없는 건**</mark>입니다. 조회 시 처리대상을 꼭 처리대상으로 놓아주세요
-
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
