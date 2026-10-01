@@ -148,7 +148,11 @@ icon: '3'
 
 <summary><mark style="background-color:blue;"><strong>키인 자동매입 한도 초과는 무엇인가요? 어떻게 처리해야 하나요? [4100]</strong></mark></summary>
 
-* 키인 승인 **금액 별로 CUNIBS 에서 별도로 처리**를 해주셔야 입금 받으실 수 있습니다.
+* <mark style="color:red;">**서명패드 미설치 가맹점은**</mark> 키인 승인 **금액 별로 CUNIBS 에서 별도로 처리**를 해주셔야 입금 받으실 수 있습니다.
+
+#### &#x20; <mark style="background-color:red;">**※ 가맹점에 서명패드를 설치하시면 별도 처리 없이 자동으로 입금됩니다 ※**</mark>
+
+
 
 1\) **5만원 이하:** 자동으로 청구되기 때문에 별도 처리 필요 없이 입금
 
