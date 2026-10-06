@@ -462,15 +462,15 @@ icon: '8'
 {% step %}
 ### 이동전화 신규계약서
 
-<figure><img src="../.gitbook/assets/image (250).png" alt="" width="443"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (333).png" alt="" width="444"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 개인정보 및 개인위치정보 처리동의서 1\~2
 
-<figure><img src="../.gitbook/assets/image (252).png" alt="" width="437"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (334).png" alt="" width="443"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (253).png" alt="" width="440"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (335).png" alt="" width="443"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -480,7 +480,7 @@ icon: '8'
 
 <summary>중고신규신청서</summary>
 
-* 개통한 이력이 있는무선단말기를 개통할 경우 작성하는 신청서
+* 개통한 이력이 있는 무선단말기를 개통할 경우 작성하는 신청서
 
 {% stepper %}
 {% step %}
@@ -488,23 +488,23 @@ icon: '8'
 
 <mark style="color:red;">⁜ 대리점 연락처는 담당자님의 휴대폰번호로 기재(서류 미비 및 처리 완료 문자 안내용)</mark>
 
+
+
 <figure><img src="../.gitbook/assets/image (319).png" alt="" width="453"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 이동전화 신규계약서
 
-
-
-<figure><img src="../.gitbook/assets/image (250).png" alt="" width="443"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (333).png" alt="" width="444"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 개인정보 및 개인위치정보 처리동의서 1\~2
 
-<figure><img src="../.gitbook/assets/image (252).png" alt="" width="437"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (334).png" alt="" width="443"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (253).png" alt="" width="440"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (335).png" alt="" width="443"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -528,15 +528,15 @@ icon: '8'
 {% step %}
 ### 이동전화 명의변경계약서
 
-<figure><img src="../.gitbook/assets/image (256).png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (336).png" alt="" width="443"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 개인정보 및 개인위치정보 처리동의서 1\~2
 
-<figure><img src="../.gitbook/assets/image (252).png" alt="" width="437"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (337).png" alt="" width="444"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (253).png" alt="" width="440"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (338).png" alt="" width="443"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -560,17 +560,15 @@ icon: '8'
 {% step %}
 ### 단말기/USIM 변경 신청서
 
-<figure><img src="../.gitbook/assets/image (263).png" alt="" width="455"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (339).png" alt="" width="445"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (265).png" alt="" width="452"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (340).png" alt="" width="442"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### 개인정보 및 개인위치정보 처리동의서 1\~2
+### 개인정보 및 개인위치정보 처리동의서
 
-<figure><img src="../.gitbook/assets/image (266).png" alt="" width="438"><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (267).png" alt="" width="453"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (341).png" alt="" width="444"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -594,7 +592,7 @@ icon: '8'
 {% step %}
 ### 기타변경 신청서
 
-<figure><img src="../.gitbook/assets/image (287).png" alt="" width="413"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (343).png" alt="" width="443"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -612,15 +610,13 @@ icon: '8'
 
 <mark style="color:red;">⁜ 대리점 연락처는 담당자님의 휴대폰번호로 기재(서류 미비 및 처리 완료 문자 안내용)</mark>
 
-<figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (313).png" alt="" width="455"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 해지 신청서
 
-<figure><img src="../.gitbook/assets/image (268).png" alt="" width="453"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (342).png" alt="" width="446"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
