@@ -15,5 +15,5 @@ site:
           path: home
           default: true
           content:
-            directory: ./home
+            directory: null
             language: ko
