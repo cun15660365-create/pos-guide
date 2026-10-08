@@ -216,7 +216,7 @@ CUNIBS 공지사항『\[NH농협카드] KB가맹점번호 이용 제한 업종 �
 
 <summary><mark style="background-color:blue;"><strong>[2100] 보너스카드 등록방법을 알려주세요</strong></mark></summary>
 
-보너스카드 탭의 등록 버튼 → 서비스구분 선택 → 카드사 선택 → 가맹번호 입력 → 상단 등록 버튼
+보너스카드 탭의 등록 버튼 → 서비스구분 선택 (하단표참고) → 카드사 선택(간편결제 및 서비스  종류) → 가맹번호 입력 → 팝업창등록 버튼
 
 <table><thead><tr><th width="209">서비스구분</th><th>카드사</th></tr></thead><tbody><tr><td>계좌결제페이</td><td>ZEROPAY, 온누리모바일</td></tr><tr><td>기타서비스</td><td>국가바우처, 꿈자람카드, 푸르미카드, 지드림카드, 컬러풀드림카드</td></tr><tr><td>보너스카드</td><td>OK캐쉬백</td></tr><tr><td>선불카드</td><td>온누리상품권,카카오페이머니,토스페이,NPAY</td></tr></tbody></table>
 
