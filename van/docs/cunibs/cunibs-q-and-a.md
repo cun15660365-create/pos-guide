@@ -140,15 +140,11 @@ CAT-ID 오른쪽에 위치한 조합원 정보는 필수 기재사항입니다. 
 
 <summary><mark style="background-color:blue;"><strong>[2100] 가맹점 정보 등록수정 메뉴에서 사업자번호 등록 시 "타대리점 소속입니다" 팝업창 뜹니다</strong></mark></summary>
 
-"OK" 클릭 → 사업자번호 우측 "신규등록" 클릭 → 하늘색 글씨 "추가 가능여부?" 확인
+<figure><img src="../.gitbook/assets/나이스추가1.JPG" alt=""><figcaption></figcaption></figure>
 
-***
+<figure><img src="../.gitbook/assets/나이스추가2.JPG" alt=""><figcaption></figcaption></figure>
 
-**추가 가능:** 하단에 "추가등록" 버튼이 생성됩니다. 눌러서 바로 진행하시면 됩니다.
-
-***
-
-**추가 불가:** 타나이스 기등록 가맹점이므로 나이스 타대리점 원장해지, 혹은 한 달 무실적 유지가 필요합니다. 혹은 타대리점 동의 하에 나이스추가 접수해주세요 (CUNIBS - 위험관리 - \[4500]정보변경관리 - 양식별등록 - 나이스추가 이중등록 접수)
+<figure><img src="../.gitbook/assets/나이스추가3.JPG" alt=""><figcaption></figcaption></figure>
 
 </details>
 
