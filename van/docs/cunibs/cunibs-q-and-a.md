@@ -28,14 +28,6 @@ icon: '5'
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>로그인 시 CUNIBS 접속불가 1566-0365로 연락하라고 뜹니다</strong></mark></summary>
-
-비밀번호 5회 오류로 ID가 잠겼습니다. 경영지원실(1566-0365 내선:3) 연락주세요
-
-</details>
-
-<details>
-
 <summary><mark style="background-color:blue;"><strong>CUNIBS ID를 추가로 받고싶습니다/ID를 공유해도 되나요?/ID 사용자가 바뀌었습니다</strong></mark></summary>
 
 ID 개수 제한 없습니다. CUNIBS를 이용자가 추가되시면 해당 직원 수 만큼 신청해주시면 됩니다.
@@ -238,6 +230,16 @@ CUNIBS 공지사항『\[NH농협카드] KB가맹점번호 이용 제한 업종 �
 
 </details>
 
+<details>
+
+<summary>페이코 가맹번호때문에 자동이체 (DESC)개시가 안됩니다</summary>
+
+1. 자동이체 일괄개시 버튼 -  페이코만 매입방법 \[ETC]로 변경 - 페이코만 서비스 해지일 입력 - 저장
+
+<figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
 
 
 ### ☑️ \[3100] 실적 관리 문의
@@ -342,6 +344,14 @@ EDC 방식은 신용카드 결제 승인 시 밴사가 대행하는 매입 단�
 
 
 ### ☑️ 기타 잦은 문의&#x20;
+
+<details>
+
+<summary><mark style="background-color:blue;"><strong>로그인 시 CUNIBS 접속불가 1566-0365로 연락하라고 뜹니다</strong></mark></summary>
+
+비밀번호 5회 오류로 ID가 잠겼습니다. 경영지원실(1566-0365 내선:3) 연락주세요
+
+</details>
 
 <details>
 
