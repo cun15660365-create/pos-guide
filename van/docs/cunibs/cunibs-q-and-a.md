@@ -232,11 +232,18 @@ CUNIBS 공지사항『\[NH농협카드] KB가맹점번호 이용 제한 업종 �
 
 <details>
 
-<summary>페이코 가맹번호때문에 자동이체 (DESC)개시가 안됩니다</summary>
+<summary><strong>페이코(혹은 하나카드) 가맹번호때문에 자동이체 (DESC)개시가 안됩니다</strong></summary>
 
-1. 자동이체 일괄개시 버튼 -  페이코만 매입방법 \[ETC]로 변경 - 페이코만 서비스 해지일 입력 - 저장
+아래 이미지를  보시고 순서대로 클릭해주세요
+
+1. 자동이체 일괄개시 버튼
+2. 페이코 (or 하나카드)만 매입방법 \[ETC]로 변경&#x20;
+3. 페이코 (or 하나카드)만 서비스 해지일을 당일로 입력
+4. 저장버튼
 
 <figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+
+※ 하나카드와 하나(구LG)카드는 다릅니다!! (하나카드는 카드사 가맹번호 가장 하단에 위치함)
 
 </details>
 
